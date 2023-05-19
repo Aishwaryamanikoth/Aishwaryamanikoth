@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aishwaryamanikoth
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and web development
 - 🌱 I’m currently a B-tech student in computer science
 - 📫 How to reach me -https://www.linkedin.com/in/aishwarya-manikoth
 
